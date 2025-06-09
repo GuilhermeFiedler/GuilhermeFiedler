@@ -1,6 +1,6 @@
 ## Hi there, I'm Guilherme 👋
 
-[![Guilherme Fiedler's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFiedler)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GuilhermeFiedler/GuilhermeFiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
