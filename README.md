@@ -1,6 +1,6 @@
 ## Hi there, I'm Guilherme 👋
 
-- I'm currently studying Javascript, PHP and Java!
+- I'm currently studying Web Development!
 
 <a href="https://github.com/GuilhermeFiedler/github-readme-stats">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFiedler&show_icons=true&theme=tokyonight&hide_rank=true" />
