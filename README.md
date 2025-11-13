@@ -4,7 +4,7 @@
 
 <a href="https://github.com/GuilhermeFiedler/github-readme-stats">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFiedler&show_icons=true&theme=dark&hide_rank=true" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFiedler&hide=html,css&layout=donut&theme=dark" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFiedler&hide=html,css&langs_count=5&layout=donut&theme=dark" />
 </a>
 
 <!--
